@@ -1,4 +1,3 @@
-# Tran Diep
 ## Operations Research Analyst - Process Engineer
 
 ### Education
