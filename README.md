@@ -1,8 +1,8 @@
 # Operations Research Analyst - Process Engineer
 
 ## Education
-- M.S., Chemical Engineering | University of Utah (_May 2025_)
-- B.S., Chemical Engineering | Brigham Young University (_April 2023_)
+- M.S., Chemical Engineering -- University of Utah (_May 2025_)
+- B.S., Chemical Engineering -- Brigham Young University (_April 2023_)
 
 ## Professional Experience
 **Manufacturing Quality Assurance Intern** - Upstate Coin & Gold (_December 2024 - Present_)
