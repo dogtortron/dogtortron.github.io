@@ -1,4 +1,5 @@
-# Operations Research Analyst - Process Engineer
+# Tran Diep
+## Operations Research Analyst - Process Engineer
 
 ### Education
 #### University of Utah
