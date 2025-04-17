@@ -2,7 +2,7 @@
 
 ## Projects
 ### Operations Research / Data Analytics
-#### [Production and Inventory Optimization](https://github.com/dogtortron/inventory-optimization)
+#### [Production and Inventory Optimization](https://github.com/dogtortron/inventory-optimization) (January 2025)
 - Designed an operations model using Python to optimize capital allocation and production scheduling, increasing profit by 12.8% for a steel manufacturer.
 
 ### Chemical Engineering
