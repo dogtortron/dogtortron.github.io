@@ -13,6 +13,9 @@
 
 ### Chemical Engineering
 
+#### [Vapor-Liquid Equilibrium of the Methane-Ethane Mixture](https://github.com/dogtortron/VLE-methane-ethane) (March 2025) 
+- Solved Vapor-Liquid Equilibrium for the Methane-Ethane mixture using the $\phi-\phi$ method and Peng-Robinson as the Equation of State.
+
 #### [Dimethyl Ether Plant Design](https://github.com/dogtortron/DME-plant-design) (January 2023 - April 2023)
 - Collaborated with three engineers to design a process that can produce 70,000 metric tons per year of 99.9 wt% DME from a feedstock of methanol.
 - Performed an economic analysis, yielding a 17% internal rate of return.
