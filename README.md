@@ -5,7 +5,7 @@
 #### [Production and Inventory Optimization](https://github.com/dogtortron/inventory-optimization) (January 2025)
 - Designed an operations model using Python to optimize capital allocation and production scheduling, increasing profit by 12.8% for a steel manufacturer.
 
-#### [Heuristic Solution for the Traveling Salesman Problem](https://github.com/dogtortron/heuristic-traveling-salesman) (December 2024)
+#### [Heuristic Solutions for the Traveling Salesman Problem](https://github.com/dogtortron/heuristic-traveling-salesman) (December 2024)
 - Built Hill Climbing and Simulated Annealing algorithms to solve the Traveling Salesman Problem by minimizing the total distance traveled one way to all 36 countries, starting from the United States.
 
 #### [Numerical Analysis of the Trajectory of an Elastic Pendulum](https://github.com/dogtortron/elastic-pendulum-numerical-analysis) (November 2023 - December 2023)
