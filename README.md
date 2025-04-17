@@ -8,15 +8,19 @@
 #### [Heuristic Solutions for the Traveling Salesman Problem](https://github.com/dogtortron/heuristic-traveling-salesman) (December 2024)
 - Built Hill Climbing and Simulated Annealing algorithms to solve the Traveling Salesman Problem by minimizing the total distance traveled one way to all 36 countries, starting from the United States.
 
-#### [Numerical Analysis of the Trajectory of an Elastic Pendulum](https://github.com/dogtortron/elastic-pendulum-numerical-analysis) (November 2023 - December 2023)
-- Studied the trajectory of an elastic pendulum using explicit methods (Forward Euler and Runge-Kutta 4) and implicit methods (Backward Euler, Crank-Nicholson, Adams-Moulton, and Backward-Difference Formula.)
+#### [Salt Lake County Bicycle Crash Analysis](https://github.com/dogtortron/SLC-bike-crash-analysis) (November 2024)
+- Analyzed 14 years of bicycle crash data in Salt Lake County (2010–2024) using Python, K-means clustering, and statistical methods to identify high-risk areas for pedalcyclists.
+- Identified canyon roads as higher-risk areas for severe crashes involving pedalcyclists.
+
+#### [Numerical Analysis of the Trajectory of an Elastic Pendulum](https://github.com/dogtortron/elastic-pendulum-numerical-analysis) (September 2023 - December 2023)
+- Studied the trajectory of an elastic pendulum using explicit methods (Forward Euler and Runge-Kutta 4) and implicit methods (Backward Euler, Crank-Nicholson, Adams-Moulton, and Backward-Difference Formula).
 
 ### 2. Chemical Engineering
 
 #### [Vapor-Liquid Equilibrium of the Methane-Ethane Mixture](https://github.com/dogtortron/VLE-methane-ethane) (March 2025) 
 - Solved Vapor-Liquid Equilibrium for the Methane-Ethane mixture using the phi-phi method and Peng-Robinson as the Equation of State.
 
-#### [Real-Time Optimization Using First-Principles Modeling](https://github.com/dogtortron/RTO-chemical-plant) (January 2024 - April 2024)
+#### [Real-Time Optimization (RTO) Using First-Principles Modeling](https://github.com/dogtortron/RTO-chemical-plant) (January 2024 - April 2024)
 - Developed Python scripts to dynamically optimize reactor operation based on daily commodity prices, and pushed setpoints to a simulated plant via API.
 - Analyzed plant profitability under three control scenarios—no optimization, ML-based optimization, and physics-based optimization, and demonstrated significant performance improvement using first-principles RTO.
 
