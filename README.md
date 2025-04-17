@@ -29,4 +29,8 @@
 - Collaborated in a competitive environment judged by professionals from Northrop Grumman and the AIChE Great Salt Lake Section, gaining insights into lifecycle safety considerations from concept to disposal.
 - Won second place.
 
+### Fun and (Sometimes) Useful
+#### [U.S. Companies & Their Likelihood To Hire Me](https://github.com/dogtortron/USCIS-data) (March 2025 - Present)
+- Built Python scripts to study the trends of international candidate employment.
+
 
