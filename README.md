@@ -5,7 +5,7 @@
 #### [Production and Inventory Optimization](https://github.com/dogtortron/inventory-optimization) (January 2025)
 - Designed an operations model using Python to optimize capital allocation and production scheduling, increasing profit by 12.8% for a steel manufacturer.
 
-#### [Numerical Analysis of the Trajectory of an Elastic Pendulum](https://github.com/dogtortron/elastic-pendulum-numerical-analysis) (November 2023 -December 2023)
+#### [Numerical Analysis of the Trajectory of an Elastic Pendulum](https://github.com/dogtortron/elastic-pendulum-numerical-analysis) (November 2023 - December 2023)
 - Studied the trajectory of an elastic pendulum using explicit methods (Forward Euler and Runge-Kutta 4) and implicit methods (Backward Euler, Crank-Nicholson, Adams-Moulton, and Backward-Difference Formula.)
 
 ### Chemical Engineering
