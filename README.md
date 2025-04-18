@@ -2,7 +2,7 @@
 
 ## Projects
 ### 1. Operations Research / Data Analytics
-#### [Production and Inventory Optimization](https://github.com/dogtortron/inventory-optimization) (January 2025)
+#### [Production and Inventory Optimization](https://github.com/dogtortron/inventory-optimization){:target="_blank"} (January 2025)
 - Designed an operations model using Python to optimize capital allocation and production scheduling, increasing profit by 12.8% for a steel manufacturer.
 
 #### [Heuristic Solutions for the Traveling Salesman Problem](https://github.com/dogtortron/heuristic-traveling-salesman) (December 2024)
