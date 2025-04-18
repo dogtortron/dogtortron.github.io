@@ -13,7 +13,7 @@
 - Identified canyon roads as higher-risk areas for severe crashes involving pedalcyclists.
 - Found intersections to be key hotspots for crashes, emphasizing the need for improved cyclist safety near junctions.
 
-#### [Prototype Vehicle Analysis](https://github.com/dogtortron/prototype-vehicle-analysis) (Octover 2024)
+#### [Prototype Vehicle Analysis](https://github.com/dogtortron/prototype-vehicle-analysis) (October 2024)
 - Applied statistical methods to compute the 99.9% confidence interval for the theoretical mean force on the driver’s front tire (40–50 MPH range).
 - Developed a linear regression model using Python's scikit-learn to predict braking force based on speed; validated with residual plots and predicted force at 45 MPH.
 - Conducted exploratory data analysis and prepared data for multivariate regression incorporating variables such as speed, acceleration, road angle, and wind.
