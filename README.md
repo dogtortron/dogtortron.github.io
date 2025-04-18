@@ -25,7 +25,9 @@
 ### 2. Chemical Engineering
 
 #### [Vapor-Liquid Equilibrium of the Methane-Ethane Mixture](https://github.com/dogtortron/VLE-methane-ethane){:target="_blank"} (March 2025) 
-- Solved Vapor-Liquid Equilibrium for the Methane-Ethane mixture using the phi-phi method and Peng-Robinson as the Equation of State.
+- Solved the vapor-liquid equilibrium (VLE) equations to estimate both the liquid and vapor mixture fugacity for the Methane-Ethane mixture.
+- Used the phi-phi method of phase equilibrium and Peng-Robinson as the equation of state (EoS).
+- Compared the predictions of high-pressure, high-temperature phase equilibrium using the Peng-Robinson EoS to real experimental data.
 
 #### [Real-Time Optimization (RTO) Using First-Principles Modeling](https://github.com/dogtortron/RTO-chemical-plant){:target="_blank"} (January 2024 - April 2024)
 - Developed Python scripts to dynamically optimize reactor operation based on daily commodity prices, and pushed setpoints to a simulated plant via API.
