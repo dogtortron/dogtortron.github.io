@@ -6,12 +6,17 @@
 - Designed an operations model using Python to optimize capital allocation and production scheduling, increasing profit by 12.8% for a steel manufacturer.
 
 #### [Heuristic Solutions for the Traveling Salesman Problem](https://github.com/dogtortron/heuristic-traveling-salesman) (December 2024)
-- Built Hill Climbing and Simulated Annealing algorithms to solve the Traveling Salesman Problem by minimizing the total distance traveled one way to all 36 countries, starting from the United States.
+- Built Hill Climbing and Simulated Annealing algorithms using Python to solve the Traveling Salesman Problem by minimizing the total distance traveled one way to all 36 countries, starting from the United States.
 
 #### [Salt Lake County Bicycle Crash Analysis](https://github.com/dogtortron/SLC-bike-crash-analysis) (November 2024)
 - Analyzed 14 years of bicycle crash data in Salt Lake County (2010–2024) using Python, K-means clustering, and statistical methods to identify high-risk areas for pedalcyclists.
 - Identified canyon roads as higher-risk areas for severe crashes involving pedalcyclists.
 - Found intersections to be key hotspots for crashes, emphasizing the need for improved cyclist safety near junctions.
+
+#### [Prototype Vehicle Analysis](https://github.com/dogtortron/prototype-vehicle-analysis) (Octover 2024)
+- Applied statistical methods to compute the 99.9% confidence interval for the theoretical mean force on the driver’s front tire (40–50 MPH range).
+- Developed a linear regression model using Python's scikit-learn to predict braking force based on speed; validated with residual plots and predicted force at 45 MPH.
+- Conducted exploratory data analysis and prepared data for multivariate regression incorporating variables such as speed, acceleration, road angle, and wind.
 
 #### [Numerical Analysis of the Trajectory of an Elastic Pendulum](https://github.com/dogtortron/elastic-pendulum-numerical-analysis) (September 2023 - December 2023)
 - Studied the trajectory of an elastic pendulum using explicit methods (Forward Euler and Runge-Kutta 4) and implicit methods (Backward Euler, Crank-Nicholson, Adams-Moulton, and Backward-Difference Formula).
