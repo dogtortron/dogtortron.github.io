@@ -6,7 +6,7 @@
 - Designed an operations model using Python to optimize capital allocation and production scheduling, increasing profit by 12.8% for a steel manufacturer.
 
 #### [Heuristic Solutions for the Traveling Salesman Problem](https://github.com/dogtortron/heuristic-traveling-salesman){:target="_blank"} (December 2024)
-- Built Hill Climbing and Simulated Annealing algorithms using Python to solve the Traveling Salesman Problem.
+- Implemented Hill Climbing and Simulated Annealing algorithms using Python to solve the Traveling Salesman Problem.
 - Minimized the total distance a person would travel one way to all 36 countries, starting from the United States.
 
 #### [Salt Lake County Bicycle Crash Analysis](https://github.com/dogtortron/SLC-bike-crash-analysis){:target="_blank"} (November 2024)
