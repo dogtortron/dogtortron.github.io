@@ -11,6 +11,7 @@
 #### [Salt Lake County Bicycle Crash Analysis](https://github.com/dogtortron/SLC-bike-crash-analysis) (November 2024)
 - Analyzed 14 years of bicycle crash data in Salt Lake County (2010–2024) using Python, K-means clustering, and statistical methods to identify high-risk areas for pedalcyclists.
 - Identified canyon roads as higher-risk areas for severe crashes involving pedalcyclists.
+- Found intersections to be key hotspots for crashes, emphasizing the need for improved cyclist safety near junctions.
 
 #### [Numerical Analysis of the Trajectory of an Elastic Pendulum](https://github.com/dogtortron/elastic-pendulum-numerical-analysis) (September 2023 - December 2023)
 - Studied the trajectory of an elastic pendulum using explicit methods (Forward Euler and Runge-Kutta 4) and implicit methods (Backward Euler, Crank-Nicholson, Adams-Moulton, and Backward-Difference Formula).
