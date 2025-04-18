@@ -47,4 +47,3 @@
 
 #### [Sing Like Billy - A Game that Tests Your Auditory Memory](https://github.com/dogtortron/startup){:target="_blank"} (May 2023 - June 2023)
 - Built a web application to test the users' auditory memory.
-- (Sorry I stopped paying for AWS so the website is not currently available.)
