@@ -34,8 +34,9 @@
 - Won second place.
 
 ### 3. Fun and (Sometimes) Useful
-#### [U.S. Companies & Their Likelihood To Hire Me](https://github.com/dogtortron/USCIS-data) (March 2025 - Present)
-- Built Python scripts to study the trends of international candidate employment.
+#### [USCIS H-1B Employer Data Analysis](https://github.com/dogtortron/USCIS-data) (March 2025 - Present)
+- Built Python scripts to study the trends of international candidate sponsorship in various U.S. companies.
+- Optimized my job search process by sorting out a list of companies with a proven track record of hiring international candidates from 2015-2024.
 
 #### [Sing Like Billy - A Game that Tests Your Auditory Memory](https://github.com/dogtortron/startup) (May 2023 - June 2023)
 - Built a web application to test the users' auditory memory.
