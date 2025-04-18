@@ -24,7 +24,7 @@
 
 ### 2. Chemical Engineering
 
-#### [Vapor-Liquid Equilibrium of the Methane-Ethane Mixture](https://github.com/dogtortron/VLE-methane-ethane){:target="_blank"} (March 2025) 
+#### [Methane-Ethane Mixture Phase Equilibrium Properties Prediction](https://github.com/dogtortron/VLE-methane-ethane){:target="_blank"} (March 2025) 
 - Solved the vapor-liquid equilibrium (VLE) equations to estimate both the liquid and vapor mixture fugacity for the Methane-Ethane mixture.
 - Used the phi-phi method of phase equilibrium and Peng-Robinson as the equation of state (EoS).
 - Compared the predictions of high-pressure, high-temperature phase equilibrium using the Peng-Robinson EoS to real experimental data.
