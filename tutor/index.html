@@ -1,64 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Dogtor Tron Tutoring</title>
   <style>
     body {
-      max-width: 740px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-size: 18px;
-      line-height: 1.6;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
       color: #333;
-      background-color: #fff;
     }
 
     header {
-      border-bottom: 1px solid #eaeaea;
-      margin-bottom: 2rem;
-      padding-bottom: 1rem;
+      position: relative;
+      text-align: center;
+      background-color: #eee;
     }
 
-    h1 {
-      font-size: 2em;
-      margin: 0;
+    header img {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
     }
 
-    a {
-      color: #0366d6;
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .schedule-button {
+      display: inline-block;
+      margin: 1.5rem auto;
+      padding: 0.75rem 1.5rem;
+      background-color: #007BFF;
+      color: white;
       text-decoration: none;
+      border-radius: 5px;
+      font-size: 1rem;
+      text-align: center;
     }
 
-    a:hover {
-      text-decoration: underline;
+    .tutor-profile {
+      text-align: center;
+      margin: 2rem 0;
     }
 
-    footer {
-      margin-top: 3rem;
-      font-size: 0.9em;
-      color: #777;
-      border-top: 1px solid #eaeaea;
-      padding-top: 1rem;
+    .tutor-profile img {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-bottom: 0.5rem;
+      border: 3px solid #007BFF;
+    }
+
+    .tutor-name {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    .intro {
+      text-align: center;
+      font-size: 1rem;
+      line-height: 1.6;
+      padding: 0 1rem 2rem;
     }
   </style>
 </head>
 <body>
+
   <header>
-    <h1>Dogtor Tron Tutoring</h1>
-    <!-- <p><a href="/">Home</a> | <a href="/about">About</a> | <a href="/contact">Contact</a></p> -->
+    <!-- Replace src with your header image URL -->
+    <img src="Dogtor-Tron-Tutoring-logo-red-1.png" alt="Tutoring Service Banner" />
   </header>
 
-  <main>
-    <p><a href="https://app.acuityscheduling.com/schedule/f419fedf">Book a tutor session</a></p>
-    <p>Hi! I am a recent graduate with a master's degree in Chemical Engineering from the University of Utah.</p>
+  <div class="container">
+    <a href="https://app.acuityscheduling.com/schedule/f419fedf" class="schedule-button">Schedule a Session</a>
 
-  </main>
+    <div class="tutor-profile">
+      <!-- Replace src with your tutor image URL -->
+      <img src="tutor-portrait.png" alt="Tutor Picture" />
+      <div class="tutor-name">Tran Diep</div>
+    </div>
 
-  <footer>
-    <p>© 2025 Tran Diep</p>
-  </footer>
+    <div class="intro">
+      <p>Hello! My name is Tran, a passionate tutor with a background in Chemical Engineering. I love helping high school and college students build confidence and master challenging concepts through clear explanations and personalized guidance.</p>
+    </div>
+  </div>
+
 </body>
 </html>
