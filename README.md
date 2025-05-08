@@ -1,5 +1,5 @@
 # Operations Research Analyst - Process Engineer
-
+## Math & Chemistry Tutoring: Book [HERE](https://app.acuityscheduling.com/schedule/f419fedf)
 ## Projects
 ### 1. Operations Research / Data Analytics
 #### [Production and Inventory Optimization](https://github.com/dogtortron/inventory-optimization){:target="_blank"} (January 2025)
