@@ -1,4 +1,4 @@
-# Operations Research Analyst - Process Engineer
+# Operations Research Analyst - Process Engineer / Data Analyst
 
 ## Projects
 ### 1. Operations Research / Data Analytics
